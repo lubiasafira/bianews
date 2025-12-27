@@ -1,5 +1,7 @@
 # bianews
+
 ## Propósito
+
 - Criar um ambiente para o desenvolvimento de pesquisa e apredizagem para usuário em forma de artigos.
 - Permitir compatilhamento de informações validades e complementadas pelos proprios usuários.
 - Utilizar algo parecido com uma metodologia cientifica, permitido a revisão sistematica do conhecimento construido.
