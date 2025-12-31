@@ -10,7 +10,6 @@ async function query(queryObject) {
   });
   await client.connect();
   const result = await client.query(queryObject);
-  console.log("DATABASE: " + process.env.POSTGRES_DB);
   await client.end();
   return result;
 }
